@@ -760,6 +760,10 @@ i img {
      border-radius: 90px;
 }
 
+.testimonial_Carousel .test_box .white_text {
+     color: #fff;
+}
+
 .testimonial_Carousel .carousel-indicators {
      bottom: -30px;
 }
